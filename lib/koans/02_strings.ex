@@ -1,3 +1,5 @@
+#comentario para poder hacer el comit de strings
+#estas respuestas se subieron junto con equalities pero para guardar registro de que se hicieron
 defmodule Strings do
   use Koans
 
